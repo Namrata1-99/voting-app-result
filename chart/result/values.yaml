@@ -1,6 +1,6 @@
 replicas: 1
 port: 80
-image: "vikasharya000/result"
+image: "namrata99/result"
 #specify container name using containerName key
 containerName: result
 service:
